@@ -19,6 +19,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzodenny&show_icons=true&locale=en" alt="lorenzodenny" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzodenny&" alt="lorenzodenny" /></p>
