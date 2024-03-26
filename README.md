@@ -3,7 +3,7 @@
 
 
 
-- 📨 contact me here **marcantonio1963@libero.it**
+- 📨 Contact me here **marcantonio1963@libero.it**
 
 - 📫 How to reach me **https://www.linkedin.com/in/marco-silveri/**
 
