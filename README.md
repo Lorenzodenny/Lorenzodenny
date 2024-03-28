@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/marco-silveri/**
 
+- 📄 My curriculum Vitae **https://drive.google.com/file/d/1zIeoKFyQ1tOmwD1Gd7CSj6xk0mEvSrNs/view**
+
+- 💼 My Portfolio **https://lorenzodenny.github.io/Portfolio/**
+
 - 🎧💻🌱✍📖🎶 **I love coding, music, nature, writing and reading..**
 
 <h3 align="left">Connect with me:</h3>
