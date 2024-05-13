@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/marco-silveri/**
 
-- 📄 My curriculum Vitae **https://drive.google.com/file/d/1O3RUaD3wAIyjhS3HDTPtR41wDpJJubMy/view?usp=drive_link**
+- 📄 My curriculum Vitae **https://drive.google.com/file/d/1tXbNVZrFaAIBr2MRbHE_p_8KL5WKwtd4/view?usp=drive_link**
 
 - 💼 My Portfolio **https://lorenzodenny.github.io/Portfolio/**
 
